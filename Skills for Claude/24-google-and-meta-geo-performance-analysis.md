@@ -1,7 +1,8 @@
 ---
 name: geo-performance-analysis
 description: Breaks down campaign performance by geographic location at whatever level matters — country, state, city, DMA, zip code. Flags underperforming geos that are quietly eating budget and high-performing ones that deserve more spend. Recommends geo bid adjustments or campaign splits.
-platform: Google and Meta
+metadata:
+  platform: Google and Meta
 ---
 
 # 24/ Geo Performance Analysis — Google + Meta

@@ -1,7 +1,8 @@
 ---
 name: email-sequence-writer
 description: Write complete nurture email sequences with subject lines, preview text, and body copy using proven copywriting formulas. Use when given ICP, offer, and objections to generate full email flows, creating welcome sequences, writing promotional emails, or maintaining voice consistency throughout email campaigns.
-platform: Google and Meta
+metadata:
+  platform: Google and Meta
 ---
 
 # Email Sequence Writer

@@ -1,7 +1,8 @@
 ---
 name: competitor-teardown
 description: Systematic competitive analysis covering positioning, messaging hierarchy, objection handling, and CTA strategy from landing page URLs or screenshots. Use when pasting a competitor URL, uploading competitor screenshots, requesting positioning analysis, or needing to understand competitive messaging and differentiation strategies.
-platform: Google and Meta
+metadata:
+  platform: Google and Meta
 ---
 
 # Competitor Teardown

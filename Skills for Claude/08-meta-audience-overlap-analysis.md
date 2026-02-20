@@ -1,7 +1,8 @@
 ---
 name: audience-overlap-analysis
 description: Compares your Meta ad sets and identifies where audiences overlap significantly, causing your ads to compete against each other in the same auctions. Tells you exactly which ad sets are cannibalizing each other and how much it's costing you in inflated CPMs.
-platform: Meta
+metadata:
+  platform: Meta
 ---
 
 # 8/ Audience Overlap Analysis — Meta

@@ -1,7 +1,8 @@
 ---
 name: utm-tracking-generator
 description: Generate consistent UTM parameters, GA4 event naming, and conversion tracking specs following taxonomy best practices. Use when describing campaign structure, requesting UTM links, needing GA4 event names, or wanting to standardize tracking nomenclature across marketing channels.
-platform: Google and Meta
+metadata:
+  platform: Google and Meta
 ---
 
 # UTM & Tracking Generator

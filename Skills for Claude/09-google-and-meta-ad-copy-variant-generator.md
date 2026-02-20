@@ -1,7 +1,8 @@
 ---
 name: ad-copy-variant-generator
 description: Analyzes your top performing ads, identifies what's working in the hooks, CTAs, messaging angles, and formats, then generates new variants that follow the same winning patterns while introducing enough variation to test meaningfully.
-platform: Google and Meta
+metadata:
+  platform: Google and Meta
 ---
 
 # 9/ Ad Copy Variant Generator — Google + Meta

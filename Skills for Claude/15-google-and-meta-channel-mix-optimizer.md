@@ -1,7 +1,8 @@
 ---
 name: channel-mix-optimizer
 description: Given your total budget, recommends the optimal split across Google Search, PMax, Meta prospecting, Meta retargeting, and any other active channels based on your last 60-90 days of marginal ROAS and CPA by channel. Tells you where each additional dollar produces the best return.
-platform: Google and Meta
+metadata:
+  platform: Google and Meta
 ---
 
 # 15/ Channel Mix Optimizer — Google + Meta

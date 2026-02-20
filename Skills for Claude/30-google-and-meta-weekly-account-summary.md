@@ -1,7 +1,8 @@
 ---
 name: weekly-account-summary
 description: Generates a plain English summary of everything that happened across all your accounts this week. What improved, what declined, what needs immediate attention, and what to prioritize next week. The Monday morning briefing that saves you an hour of pulling reports and context-switching between platforms.
-platform: Google and Meta
+metadata:
+  platform: Google and Meta
 ---
 
 # 30/ Weekly Account Summary — Google + Meta

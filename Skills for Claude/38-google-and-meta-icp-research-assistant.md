@@ -1,8 +1,7 @@
-Google and Meta
-
 ---
 name: icp-research-assistant
 description: Build detailed B2B buyer personas with pain points, objections, buying triggers, and messaging angles. Use when given a product and market to research ideal customer profiles, creating buyer personas, or needing to understand who you're selling to before launching campaigns.
+platform: Google and Meta
 ---
 
 # ICP Research Assistant

@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: landing-page-audit
+description: Reviews your landing pages against the ads driving traffic to them. Checks for message match between ad copy and page content, CTA clarity, above-the-fold alignment, form friction, and flags any disconnects between what the ad promises and what the page delivers.
+platform: Google and Meta
+---
 
 # 10/ Landing Page Audit — Google + Meta
 

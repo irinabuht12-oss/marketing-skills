@@ -1,4 +1,8 @@
-Meta
+---
+name: competitor-creative-analysis
+description: Pulls competitor ads from Meta Ad Library and Google Ads Transparency Center, categorizes their messaging angles, formats, CTAs, and creative types, then identifies gaps in their approach you can exploit and patterns worth testing in your own campaigns.
+platform: Meta
+---
 
 # 13/ Competitor Creative Analysis — Meta
 

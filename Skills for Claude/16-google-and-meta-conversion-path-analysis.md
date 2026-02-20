@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: conversion-path-analysis
+description: Maps out how users move through your funnel from first ad click to conversion. Identifies where the biggest drop-offs happen, which campaigns contribute most at each stage, and how long the typical conversion path takes across different audience segments.
+platform: Google and Meta
+---
 
 # 16/ Conversion Path Analysis — Google + Meta
 

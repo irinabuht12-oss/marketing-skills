@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: campaign-naming-convention-builder
+description: Builds a consistent, filterable naming convention across your Google and Meta accounts based on your campaign types, objectives, targeting, and reporting needs. Makes filtering, reporting, and cross-platform analysis actually work instead of guessing what "Campaign_v3_Final_NEW" means.
+platform: Google and Meta
+---
 
 # 23/ Campaign Naming Convention Builder — Google + Meta
 

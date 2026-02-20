@@ -1,4 +1,8 @@
-Google
+---
+name: search-term-mining
+description: Analyzes your search term reports across all campaigns and surfaces high-intent terms you're not bidding on yet. Groups them by theme, estimates their potential volume and CPA, and recommends match types and starting bids for each.
+platform: Google
+---
 
 # 7/ Search Term Mining — Google
 

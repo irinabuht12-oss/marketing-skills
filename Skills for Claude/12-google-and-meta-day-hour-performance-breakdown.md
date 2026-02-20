@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: day-hour-performance-breakdown
+description: Analyzes performance by day of week and hour of day across your campaigns. Identifies when your ads perform best and worst, recommends ad schedule adjustments with estimated savings, and tells you exactly what you'd give up by restricting hours.
+platform: Google and Meta
+---
 
 # 12/ Day/Hour Performance Breakdown — Google + Meta
 

@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: ab-test-setup-and-analysis
+description: Designs statistically valid split tests for ads, audiences, landing pages, or bid strategies. Calculates required sample sizes before you start, monitors results during the test, and calls winners when statistical significance is actually reached — not when you feel like one is winning.
+platform: Google and Meta
+---
 
 # 28/ A/B Test Setup and Analysis — Google + Meta
 

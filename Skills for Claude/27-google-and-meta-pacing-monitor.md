@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: pacing-monitor
+description: Tracks daily spend against monthly budget targets across all campaigns and accounts. Tells you exactly where you'll land at current pace, flags campaigns that are over or underspending, and calculates the daily budget adjustments needed to hit your target by month end.
+platform: Google and Meta
+---
 
 # 27/ Pacing Monitor — Google + Meta
 

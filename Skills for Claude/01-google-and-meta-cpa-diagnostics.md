@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: cpa-diagnostics
+description: When your CPA spikes, Claude breaks down exactly what caused it. It looks across your campaign data and isolates the contributing factors — audience fatigue, bid landscape shifts, creative decay, landing page conversion drops, budget distribution changes, or new competitor activity.
+platform: Google and Meta
+---
 
 # 1/ CPA Diagnostics — Google + Meta
 

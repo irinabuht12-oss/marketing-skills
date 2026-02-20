@@ -1,8 +1,7 @@
-Reddit
-
 ---
 name: reddit-ads-audit
 description: Reddit Ads campaign analysis detecting community targeting issues, creative fatigue, bid inefficiencies, and subreddit performance problems. Use when pasting Reddit Ads data, analyzing subreddit targeting, or auditing Reddit advertising spend for B2B or B2C campaigns.
+platform: Reddit
 ---
 
 # Reddit Ads Audit

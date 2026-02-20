@@ -1,4 +1,8 @@
-Google and Meta
+---
+name: performance-benchmarking
+description: Compares your key metrics against industry benchmarks for your specific vertical, campaign type, and platform. Tells you where you're ahead, where you're behind, and where there's room to improve — adjusted for your account size and spend level, because a $10K/month account and a $500K/month account have different benchmark realities.
+platform: Google and Meta
+---
 
 # 29/ Performance Benchmarking — Google + Meta
 

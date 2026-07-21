@@ -1,6 +1,6 @@
 # Ryze AI - Claude Marketing Skills
 
-[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/claude-marketing-skills/main/banner.png)](https://get-ryze.ai/blog/claude-marketing-skills)
+[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/gh3-ocean.png)](https://get-ryze.ai/blog/claude-marketing-skills)
 
 
 17 free skills that turn Claude into your marketing assistant.

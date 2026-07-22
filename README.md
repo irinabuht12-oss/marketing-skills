@@ -9,6 +9,15 @@
 
 ---
 
+## Folders
+
+- **Claude skills for Google Ads** — audits, diagnostics, and optimization skills for Google (and cross-platform Google + Meta) campaigns
+- **Claude skills for Meta Ads** — creative fatigue, audience overlap, retargeting, and Meta-specific audits
+- **Claude skills for SEO** — end-to-end SEO assistant and programmatic SEO builder
+- **Claude skills for AI visibility** — get your brand cited by ChatGPT, Claude, Gemini, Perplexity, and AI Overviews
+
+---
+
 ## What's Inside
 
 | Skill | What It Does |

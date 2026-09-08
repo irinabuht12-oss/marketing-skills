@@ -27,3 +27,13 @@ CPA went from $42 to $67 overnight. Claude identifies that 73% of the increase c
 - Client asks "why did performance drop" and you need an answer fast
 - Monday morning account checks when you need to catch weekend issues
 - Before budget calls to identify and fix problems proactively
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

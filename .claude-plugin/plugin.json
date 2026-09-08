@@ -1,0 +1,28 @@
+{
+  "name": "marketing-skills",
+  "description": "48 free Claude marketing skills: Google Ads, Meta Ads, SEO and AI visibility audits, diagnostics and playbooks. Bundles the Ryze MCP so Claude reads your live ad, GA4 and Search Console data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryze AI",
+    "url": "https://get-ryze.ai"
+  },
+  "homepage": "https://www.get-ryze.ai/blog/claude-marketing-skills-complete-guide",
+  "repository": "https://github.com/irinabuht12-oss/marketing-skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "google-ads",
+    "meta-ads",
+    "seo",
+    "geo",
+    "mcp",
+    "marketing"
+  ],
+  "skills": "./skills",
+  "mcpServers": {
+    "ryze": {
+      "type": "http",
+      "url": "https://connector.get-ryze.ai/mcp"
+    }
+  }
+}

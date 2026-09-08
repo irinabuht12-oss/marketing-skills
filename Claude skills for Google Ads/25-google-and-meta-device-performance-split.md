@@ -28,3 +28,13 @@ Your B2B lead gen campaigns show desktop CPA at $41 with 3.8% CVR and mobile CPA
 - After landing page redesigns to verify mobile experience didn't break
 - When mobile traffic share increases but conversions don't follow
 - For ecommerce accounts where mobile browsing vs desktop purchasing creates attribution confusion
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

@@ -28,3 +28,13 @@ Your best performing Meta ad has a hook that leads with a specific number ("Cut 
 - Creative brainstorm sessions where you need a starting point, not a blank page
 - When scaling to new audiences that might respond to different angles
 - RSA headline and description generation where you need 15 headlines that aren't repetitive
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

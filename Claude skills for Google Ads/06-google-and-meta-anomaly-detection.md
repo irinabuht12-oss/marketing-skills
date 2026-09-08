@@ -28,3 +28,13 @@ Thursday at 2pm, your branded search CPC jumps 47% compared to the 14-day averag
 - After website deployments or landing page changes
 - During high-spend periods like Black Friday or product launches
 - When managing multiple accounts and you can't manually check everything daily
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

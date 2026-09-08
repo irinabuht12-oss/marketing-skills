@@ -28,3 +28,13 @@ You're running 6 prospecting ad sets on Meta, each targeting different interest 
 - If CPMs are rising without clear external cause
 - During account restructuring to clean up legacy targeting
 - When frequency is high across multiple ad sets targeting similar people
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

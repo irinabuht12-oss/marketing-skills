@@ -29,3 +29,13 @@ Under last-click attribution, your Google Brand campaign gets credit for 420 con
 - During QBRs to show clients the full picture of campaign value
 - When upper-funnel campaigns are on the chopping block due to "poor" last-click ROAS
 - Before cutting any campaign that might be silently feeding conversions elsewhere
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

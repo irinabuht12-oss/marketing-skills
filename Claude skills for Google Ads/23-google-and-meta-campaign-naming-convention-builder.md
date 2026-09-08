@@ -28,3 +28,13 @@ Your current naming is a mix of "Spring Sale - Lookalike" and "FB_Prospecting_In
 - When taking over messy accounts and need to bring order before optimizing
 - Before scaling to multiple markets or products where naming discipline becomes critical
 - When building cross-platform reporting dashboards that need consistent naming to aggregate data correctly
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

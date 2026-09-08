@@ -28,3 +28,13 @@ Your B2B SaaS campaigns show CPA of $31 during weekday business hours (8am-6pm) 
 - Quarterly reviews to adjust schedules as behavior patterns shift
 - When budgets are tight and you need to maximize efficiency
 - For B2B accounts where business hours vs off-hours performance differs significantly
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

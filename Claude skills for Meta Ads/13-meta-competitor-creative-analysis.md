@@ -28,3 +28,13 @@ Your three main SaaS competitors are all running 15-25 active ads each on Meta. 
 - Before creative brainstorms to identify white space in the market
 - When entering a new market or vertical and you need to understand the landscape fast
 - When your CPA rises and you suspect competitors are getting more aggressive
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

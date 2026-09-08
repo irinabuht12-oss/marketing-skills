@@ -136,3 +136,13 @@ Purpose: Detect diminishing returns before blended ROAS shows issues
 - If marginal ROAS data unavailable, note this and use blended metrics with lower confidence
 - Account for seasonality - compare year-over-year if possible
 - Flag if total spend seems misaligned with business size
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

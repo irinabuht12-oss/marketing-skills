@@ -142,3 +142,13 @@ Analyze LinkedIn ad campaigns for B2B performance optimization.
 - Lead quality matters more than CPL - ask about lead-to-opportunity rate
 - If no benchmark data provided, use industry averages
 - Flag if audience size is <20K (too narrow) or >1M (too broad)
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

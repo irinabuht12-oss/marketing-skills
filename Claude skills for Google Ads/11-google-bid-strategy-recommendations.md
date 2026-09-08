@@ -28,3 +28,13 @@ You have 8 search campaigns all running maximize conversions. Claude identifies 
 - Quarterly bid strategy reviews to catch campaigns that have outgrown or underperform their current strategy
 - When conversion volume changes significantly (up or down)
 - Before scaling campaigns, because the right strategy at $5K/month might be wrong at $25K/month
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

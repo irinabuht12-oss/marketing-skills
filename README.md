@@ -1,11 +1,37 @@
 # Ryze AI - Claude Marketing Skills
 
-[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://get-ryze.ai/blog/claude-marketing-skills)
+[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide)
 
+48 free skills that turn Claude into your marketing assistant: Google Ads, Meta Ads, SEO and AI visibility.
 
-17 free skills that turn Claude into your marketing assistant.
+## Install in 30 seconds
 
-**[📖 Setup Guide →](https://get-ryze.ai/blog/claude-marketing-skills)**
+**1. Connect the Ryze MCP** (free, gives Claude your live Google Ads / Meta Ads / GA4 / Search Console data):
+
+```
+claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp
+```
+
+In claude.ai or Claude Desktop: Settings → Connectors → Add custom connector → paste `https://connector.get-ryze.ai/mcp`. Works in Cursor and ChatGPT too. [2-minute setup guide →](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp)
+
+**2. Install the skills** as a Claude Code plugin (the connector comes bundled):
+
+```
+claude plugin marketplace add irinabuht12-oss/marketing-skills
+claude plugin install marketing-skills@ryze
+```
+
+Or copy them by hand:
+
+```bash
+git clone https://github.com/irinabuht12-oss/marketing-skills && cp -r marketing-skills/skills/* ~/.claude/skills/
+```
+
+Or download everything: [all-marketing-skills.zip](https://github.com/irinabuht12-oss/marketing-skills/blob/main/all-marketing-skills.zip)
+
+**3. Ask:** "audit my Google Ads for wasted spend", "why did my Meta CPA go up this week", "which AI engines cite my site".
+
+**[📖 Full guide: 98 Claude marketing skills, ranked by job →](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide)**
 
 ---
 
@@ -41,7 +67,8 @@
 
 ## Requirements
 
-- Claude Pro ($20/month) at [claude.ai](https://claude.ai)
+- Claude Pro, Max, Team or Enterprise at [claude.ai](https://claude.ai), or Claude Code / Cursor
+- The free [Ryze MCP connector](https://connector.get-ryze.ai/mcp) for live account data (skills also run on pasted exports)
 
 ---
 

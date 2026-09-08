@@ -1,0 +1,14 @@
+{
+  "name": "ryze",
+  "owner": {
+    "name": "Ryze AI",
+    "url": "https://get-ryze.ai"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skills",
+      "source": "./",
+      "description": "48 free Claude marketing skills: Google Ads, Meta Ads, SEO and AI visibility audits, diagnostics and playbooks. Bundles the Ryze MCP so Claude reads your live ad, GA4 and Search Console data."
+    }
+  ]
+}

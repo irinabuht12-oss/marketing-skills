@@ -166,3 +166,13 @@ Statistical significance achieved, but short runtime reduces confidence.
 - If test ran <7 days, always recommend extending
 - If sample size insufficient, calculate required runtime to reach it
 - Ask for segment data if not provided - results often differ by device/source
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

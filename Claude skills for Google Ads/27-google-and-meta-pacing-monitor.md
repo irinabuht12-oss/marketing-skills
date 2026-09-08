@@ -28,3 +28,13 @@ It's the 14th of the month. Your total monthly target is $120K across 6 campaign
 - When clients have strict monthly budgets that can't be exceeded
 - During heavy spend periods (holiday, promotions) where daily oversight matters more
 - End of month when you need to throttle or accelerate to land on target
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

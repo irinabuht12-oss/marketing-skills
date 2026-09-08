@@ -28,3 +28,13 @@ Your default retargeting window is 30 days for all audiences. Claude's analysis 
 - When retargeting CPA is creeping up and audience pools need tightening
 - After significant changes in conversion funnel or product offering
 - Quarterly to check if conversion behavior patterns have shifted
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

@@ -28,3 +28,13 @@ Your Google Ads account has 34 search campaigns. Claude finds that 19 of them ha
 - Quarterly account health checks
 - When performance plateaus and structural issues might be holding back algorithms
 - Before scaling, because a messy structure at $20K/month becomes a disaster at $100K/month
+
+## Data access (Ryze MCP)
+
+This skill works best with live account data. Connect the free Ryze MCP once and Claude reads your Google Ads, Meta Ads, GA4 and Search Console directly:
+
+- claude.ai / Claude Desktop: Settings → Connectors → Add custom connector → `https://connector.get-ryze.ai/mcp`
+- Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
+- Cursor: Settings → MCP → add the same URL
+
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp

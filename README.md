@@ -29,6 +29,8 @@ git clone https://github.com/irinabuht12-oss/marketing-skills && cp -r marketing
 
 Or download everything: [all-marketing-skills.zip](https://github.com/irinabuht12-oss/marketing-skills/blob/main/all-marketing-skills.zip)
 
+Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta Ads MCP](https://www.get-ryze.ai/meta-ads-mcp)
+
 **3. Ask:** "audit my Google Ads for wasted spend", "why did my Meta CPA go up this week", "which AI engines cite my site".
 
 **[📖 Full guide: 98 Claude marketing skills, ranked by job →](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide)**

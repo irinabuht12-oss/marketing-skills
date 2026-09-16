@@ -2,7 +2,7 @@
 
 [![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide)
 
-48 free skills that turn Claude into your marketing assistant: Google Ads, Meta Ads, SEO and AI visibility.
+49 free skills that turn Claude into your marketing assistant: Google Ads, Meta Ads, SEO and AI visibility.
 
 ## Install in 30 seconds
 
@@ -62,6 +62,7 @@ Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta
 | **Email Sequence Writer** | Write full nurture sequences with subject lines |
 | **Content Repurposer** | Turn 1 blog post into LinkedIn, Twitter, email, and video content |
 | **Programmatic SEO Builder** | Build scalable page templates with schema markup |
+| **Programmatic SEO Playbook** | The 7 plays that got Zapier, Clay, Composio, Gamma, Mintlify, HeyGen and HubSpot to #1 in Google and ChatGPT, scored and designed for your company |
 | **ICP Research Assistant** | Build buyer personas with pain points, objections, buying triggers |
 | **E2E SEO Assistant** | Get technical audits, content gaps, backlink opportunities, content briefs |
 

@@ -1,8 +1,8 @@
-# Ryze AI - Claude Marketing Skills
+# Claude Skills for Marketing: 49 free marketing skills for Claude Code and claude.ai
 
 [![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide)
 
-49 free skills that turn Claude into your marketing assistant: Google Ads, Meta Ads, SEO and AI visibility.
+49 free Claude skills for marketing (marketing skills for Claude Code, Claude Desktop and claude.ai): Google Ads, Meta Ads, SEO and AI visibility, with the Ryze MCP (a Google Ads MCP and Meta Ads MCP in one connector) for live account data. Built by Ryze AI.
 
 ## Install in 30 seconds
 
@@ -65,6 +65,20 @@ Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta
 | **Programmatic SEO Playbook** | The 7 plays that got Zapier, Clay, Composio, Gamma, Mintlify, HeyGen and HubSpot to #1 in Google and ChatGPT, scored and designed for your company |
 | **ICP Research Assistant** | Build buyer personas with pain points, objections, buying triggers |
 | **E2E SEO Assistant** | Get technical audits, content gaps, backlink opportunities, content briefs |
+
+---
+
+## Common questions
+
+**What are Claude skills for marketing?** Markdown instructions Claude loads on demand: each skill tells Claude how to audit a Google Ads account, diagnose Meta creative fatigue, build a programmatic SEO plan or check AI visibility, step by step, with the data it should pull.
+
+**How do I install marketing skills in Claude Code?** `claude plugin marketplace add irinabuht12-oss/marketing-skills` then `claude plugin install marketing-skills@ryze`. Or copy the `skills/` folders into `~/.claude/skills/`.
+
+**Do the skills need the Ryze MCP?** No. They run on pasted exports too, but with the free connector (`claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`) Claude reads your live Google Ads, Meta Ads, GA4 and Search Console data itself.
+
+**Do they work in Cursor, ChatGPT or Claude Desktop?** Yes. The skills are plain Markdown and the connector URL is the same in every client.
+
+**Are they free?** Yes, all 49, MIT licensed, no signup.
 
 ---
 

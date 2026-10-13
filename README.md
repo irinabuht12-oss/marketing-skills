@@ -1,6 +1,10 @@
 # Claude Skills for Marketing: 49 free marketing skills for Claude Code and claude.ai
 
-[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide)
+[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide?utm_source=github&utm_content=marketing-skills)
+
+Skip the setup: use the hosted Ryze MCP (no developer token, no Google Cloud project, approval-gated writes).
+
+**[Connect Ryze in one click →](https://www.get-ryze.ai/developers?utm_source=github&utm_content=marketing-skills)**
 
 49 free Claude skills for marketing (marketing skills for Claude Code, Claude Desktop and claude.ai): Google Ads, Meta Ads, SEO and AI visibility, with the Ryze MCP (a Google Ads MCP and Meta Ads MCP in one connector) for live account data. Built by Ryze AI.
 
@@ -12,7 +16,7 @@
 claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp
 ```
 
-In claude.ai or Claude Desktop: Settings → Connectors → Add custom connector → paste `https://connector.get-ryze.ai/mcp`. Works in Cursor and ChatGPT too. [2-minute setup guide →](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp)
+In claude.ai or Claude Desktop: Settings → Connectors → Add custom connector → paste `https://connector.get-ryze.ai/mcp`. Works in Cursor and ChatGPT too. [2-minute setup guide →](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=marketing-skills)
 
 **2. Install the skills** as a Claude Code plugin (the connector comes bundled):
 
@@ -29,11 +33,11 @@ git clone https://github.com/irinabuht12-oss/marketing-skills && cp -r marketing
 
 Or download everything: [all-marketing-skills.zip](https://github.com/irinabuht12-oss/marketing-skills/blob/main/all-marketing-skills.zip)
 
-Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta Ads MCP](https://www.get-ryze.ai/meta-ads-mcp)
+Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp?utm_source=github&utm_content=marketing-skills) · [Meta Ads MCP](https://www.get-ryze.ai/meta-ads-mcp?utm_source=github&utm_content=marketing-skills)
 
 **3. Ask:** "audit my Google Ads for wasted spend", "why did my Meta CPA go up this week", "which AI engines cite my site".
 
-**[📖 Full guide: 98 Claude marketing skills, ranked by job →](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide)**
+**[📖 Full guide: 98 Claude marketing skills, ranked by job →](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide?utm_source=github&utm_content=marketing-skills)**
 
 ---
 
@@ -97,4 +101,4 @@ Need help? Contact us at **hello@get-ryze.ai**
 
 ---
 
-Built by [Ryze AI](https://get-ryze.ai) — AI that runs your paid ads
+Built by [Ryze AI](https://get-ryze.ai?utm_source=github&utm_content=marketing-skills) — AI that runs your paid ads

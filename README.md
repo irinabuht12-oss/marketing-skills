@@ -1,10 +1,10 @@
 # Claude Skills for Marketing: 49 free marketing skills for Claude Code and claude.ai
 
-[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://get-ryze.ai/blog/claude-marketing-skills-complete-guide?utm_source=github&utm_content=marketing-skills)
+[![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/marketing-skills/main/ghf-toplight.png)](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=marketing-skills)
 
 Skip the setup: use the hosted Ryze MCP (no developer token, no Google Cloud project, approval-gated writes).
 
-**[Connect Ryze in one click →](https://www.get-ryze.ai/developers?utm_source=github&utm_content=marketing-skills)**
+**[Connect Ryze in one click →](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=marketing-skills)**
 
 49 free Claude skills for marketing (marketing skills for Claude Code, Claude Desktop and claude.ai): Google Ads, Meta Ads, SEO and AI visibility, with the Ryze MCP (a Google Ads MCP and Meta Ads MCP in one connector) for live account data. Built by Ryze AI.
 
@@ -101,4 +101,4 @@ Need help? Contact us at **hello@get-ryze.ai**
 
 ---
 
-Built by [Ryze AI](https://get-ryze.ai?utm_source=github&utm_content=marketing-skills) — AI that runs your paid ads
+Built by [Ryze AI](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=marketing-skills) — AI that runs your paid ads

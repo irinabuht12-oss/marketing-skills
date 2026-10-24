@@ -1,6 +1,6 @@
 ---
 name: ab-test-analyzer
-description: Statistical significance calculator for A/B test results with sample size requirements, segment breakdowns, and hypothesis generation. Use when feeding test results, checking statistical significance, calculating sample sizes, analyzing experiment outcomes, or generating next test ideas based on results. Platform: Google and Meta.
+description: "Statistical significance calculator for A/B test results with sample size requirements, segment breakdowns, and hypothesis generation. Use when feeding test results, checking statistical significance, calculating sample sizes, analyzing experiment outcomes, or generating next test ideas based on results. Platform: Google and Meta."
 metadata:
   platform: Google and Meta
 ---

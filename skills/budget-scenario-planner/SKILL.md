@@ -1,6 +1,6 @@
 ---
 name: budget-scenario-planner
-description: Models what happens to your CPA, ROAS, conversion volume, and impression share when you increase or decrease budget by any amount. Uses your actual account data and historical diminishing returns patterns, not generic industry assumptions. Platform: Google and Meta.
+description: "Models what happens to your CPA, ROAS, conversion volume, and impression share when you increase or decrease budget by any amount. Uses your actual account data and historical diminishing returns patterns, not generic industry assumptions. Platform: Google and Meta."
 metadata:
   platform: Google and Meta
 ---

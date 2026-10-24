@@ -1,6 +1,6 @@
 ---
 name: account-structure-review
-description: Evaluates your campaign and ad set structure against your actual goals and budget. Flags over-segmentation that fragments your data, under-segmentation that hides performance differences, budget allocation issues, and consolidation opportunities that would improve algorithmic delivery and your ability to optimize. Platform: Google and Meta.
+description: "Evaluates your campaign and ad set structure against your actual goals and budget. Flags over-segmentation that fragments your data, under-segmentation that hides performance differences, budget allocation issues, and consolidation opportunities that would improve algorithmic delivery and your ability to optimize. Platform: Google and Meta."
 metadata:
   platform: Google and Meta
 ---

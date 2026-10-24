@@ -1,6 +1,6 @@
 ---
 name: content-aeo-optimizer
-description: Rewrite existing pages so AI assistants can extract, quote, and cite them. Claude restructures your content into answer-ready blocks — direct answers, comparison tables, stats with sources, schema — without wrecking the human reading experience. Platform: AI visibility.
+description: "Rewrite existing pages so AI assistants can extract, quote, and cite them. Claude restructures your content into answer-ready blocks — direct answers, comparison tables, stats with sources, schema — without wrecking the human reading experience. Platform: AI visibility."
 metadata:
   platform: AI visibility
 ---

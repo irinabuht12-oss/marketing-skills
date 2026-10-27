@@ -1,6 +1,6 @@
 ---
 name: anomaly-detection
-description: Catches unusual performance changes across your accounts — CPC spikes, CVR drops, spend surges, impression collapses, CTR shifts — and flags them with context about what likely changed. The goal is to catch problems in hours instead of discovering them days later during a routine check. Platform: Google and Meta.
+description: "Catches unusual performance changes across your accounts — CPC spikes, CVR drops, spend surges, impression collapses, CTR shifts — and flags them with context about what likely changed. The goal is to catch problems in hours instead of discovering them days later during a routine check. Platform: Google and Meta."
 metadata:
   platform: Google and Meta
 ---

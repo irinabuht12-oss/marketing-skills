@@ -1,6 +1,6 @@
 ---
 name: retargeting-window-analysis
-description: Analyzes your conversion lag data to determine the optimal retargeting window for each audience segment. Tells you whether your 30-day retargeting window should actually be 7 days, 14 days, or 60 days based on when people actually convert after their first visit. Platform: Meta.
+description: "Analyzes your conversion lag data to determine the optimal retargeting window for each audience segment. Tells you whether your 30-day retargeting window should actually be 7 days, 14 days, or 60 days based on when people actually convert after their first visit. Platform: Meta."
 metadata:
   platform: Meta
 ---

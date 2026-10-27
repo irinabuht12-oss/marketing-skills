@@ -1,6 +1,6 @@
 ---
 name: brand-answer-monitoring
-description: Track how AI assistants describe your brand over time and catch wrong, outdated, or damaging claims. Claude builds your monitoring prompt set, compares runs week over week, and drafts the correction plan when answers drift. Platform: AI visibility.
+description: "Track how AI assistants describe your brand over time and catch wrong, outdated, or damaging claims. Claude builds your monitoring prompt set, compares runs week over week, and drafts the correction plan when answers drift. Platform: AI visibility."
 metadata:
   platform: AI visibility
 ---

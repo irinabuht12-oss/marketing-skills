@@ -1,6 +1,6 @@
 ---
 name: ai-visibility-audit
-description: Audit how visible your brand is inside AI answers (ChatGPT, Claude, Gemini, Perplexity, AI Overviews). Claude builds a prompt panel for your category, scores where you show up vs competitors, and turns the gaps into a prioritized fix list. Platform: AI visibility.
+description: "Audit how visible your brand is inside AI answers (ChatGPT, Claude, Gemini, Perplexity, AI Overviews). Claude builds a prompt panel for your category, scores where you show up vs competitors, and turns the gaps into a prioritized fix list. Platform: AI visibility."
 metadata:
   platform: AI visibility
 ---

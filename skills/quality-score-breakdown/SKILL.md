@@ -1,6 +1,6 @@
 ---
 name: quality-score-breakdown
-description: Breaks down Quality Score components for your Google Ads keywords — expected CTR, ad relevance, and landing page experience — and tells you exactly which component is dragging each keyword down, with specific fixes ranked by potential CPC impact. Platform: Google.
+description: "Breaks down Quality Score components for your Google Ads keywords — expected CTR, ad relevance, and landing page experience — and tells you exactly which component is dragging each keyword down, with specific fixes ranked by potential CPC impact. Platform: Google."
 metadata:
   platform: Google
 ---

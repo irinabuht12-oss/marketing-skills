@@ -1,6 +1,6 @@
 ---
 name: attribution-model-comparison
-description: Runs your conversion data through different attribution models side by side — last click, first click, linear, time decay, position based, and data-driven. Shows you how credit shifts between campaigns depending on the model so you can make better budget decisions instead of over-investing in last-touch campaigns. Platform: Google and Meta.
+description: "Runs your conversion data through different attribution models side by side — last click, first click, linear, time decay, position based, and data-driven. Shows you how credit shifts between campaigns depending on the model so you can make better budget decisions instead of over-investing in last-touch campaigns. Platform: Google and Meta."
 metadata:
   platform: Google and Meta
 ---

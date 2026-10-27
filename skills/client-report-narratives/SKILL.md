@@ -1,6 +1,6 @@
 ---
 name: client-report-narratives
-description: Takes your raw campaign performance data and writes the executive summary paragraph that goes at the top of the report. The plain English explanation of what happened, why it happened, and what's being done about it. The part every client actually reads. Platform: Google and Meta.
+description: "Takes your raw campaign performance data and writes the executive summary paragraph that goes at the top of the report. The plain English explanation of what happened, why it happened, and what's being done about it. The part every client actually reads. Platform: Google and Meta."
 metadata:
   platform: Google and Meta
 ---

@@ -1,6 +1,6 @@
 ---
 name: wasted-spend-finder
-description: Scans your Google and Meta accounts for money being spent on search terms, placements, audiences, and ads that produce zero or near-zero conversions. Delivers clean exclusion lists you can upload directly. Platform: Google and Meta.
+description: "Scans your Google and Meta accounts for money being spent on search terms, placements, audiences, and ads that produce zero or near-zero conversions. Delivers clean exclusion lists you can upload directly. Platform: Google and Meta."
 metadata:
   platform: Google and Meta
 ---

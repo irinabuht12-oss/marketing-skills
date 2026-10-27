@@ -1,6 +1,6 @@
 ---
 name: e2e-seo-assistant
-description: Full SEO workflow covering technical audits, content gaps, backlink opportunities, on-page fixes, and content briefs. Use when given a site and target keywords to get complete SEO analysis and actionable content plans. End-to-end SEO in one skill. Platform: Google.
+description: "Full SEO workflow covering technical audits, content gaps, backlink opportunities, on-page fixes, and content briefs. Use when given a site and target keywords to get complete SEO analysis and actionable content plans. End-to-end SEO in one skill. Platform: Google."
 metadata:
   platform: Google
 ---

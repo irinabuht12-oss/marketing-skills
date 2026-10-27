@@ -1,6 +1,6 @@
 ---
 name: citation-source-gap-finder
-description: Find the exact pages AI assistants cite when answering questions in your category, and identify which ones you can get into. Claude clusters the cited sources, scores each by attainability, and outputs an outreach/content plan. Platform: AI visibility.
+description: "Find the exact pages AI assistants cite when answering questions in your category, and identify which ones you can get into. Claude clusters the cited sources, scores each by attainability, and outputs an outreach/content plan. Platform: AI visibility."
 metadata:
   platform: AI visibility
 ---

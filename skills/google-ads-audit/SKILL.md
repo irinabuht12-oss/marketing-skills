@@ -1,6 +1,6 @@
 ---
 name: google-ads-audit
-description: Comprehensive Google Ads account health analysis detecting wasted spend, search term leaks, negative keyword gaps, bid strategy issues, and Quality Score problems. Use when analyzing campaign data, pasting Google Ads exports, reviewing account performance, or requesting a full diagnostic of advertising spend efficiency. Platform: Google.
+description: "Comprehensive Google Ads account health analysis detecting wasted spend, search term leaks, negative keyword gaps, bid strategy issues, and Quality Score problems. Use when analyzing campaign data, pasting Google Ads exports, reviewing account performance, or requesting a full diagnostic of advertising spend efficiency. Platform: Google."
 metadata:
   platform: Google
 ---

@@ -38,4 +38,4 @@ This skill works best with live account data. Connect the free Ryze MCP once and
 - Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`
 - Cursor: Settings → MCP → add the same URL
 
-Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp
+Setup guide: https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=marketing-skills
